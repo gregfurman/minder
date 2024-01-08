@@ -31,7 +31,7 @@ allowing users to integrate with their existing tooling and processes.
 ## Public instance
 
 Your friends at Stacklok have set up a public instance of Minder that you can use for free. The Minder CLI tool
-(`minder`) from our official releases is configured to use this instance by default. Follow Stacklok's Minder [Getting Started Guide](https://docs.stacklok.com/minder/getting_started/install_cli) to quickly try out Minder's features without having to build and deploy OSS Monder. 
+(`minder`) from our official releases is configured to use this instance by default. Follow Stacklok's Minder [Getting Started Guide](https://docs.stacklok.com/minder/getting_started/install_cli) to quickly try out Minder's features without having to build and deploy OSS Minder. 
 
 Note that it's not possible to register private repositories. If you'd like to use Minder with private repositories,
 feel free to [contact us](mailto:hello@stacklok.com)! We'd be thrilled to help you out.
